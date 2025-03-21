@@ -18,7 +18,7 @@ The contents of a readme file are written using [Markdown](https://www.markdowng
 You made changes to a file and committed (saved) them to the repository. Github tracks the state of your entire repository after each commit so you can go back and revisit any point in your commit history.
 
 # Part B. Make more changes to the README file
-1. Change your favourite animal to something else. cat Commit the changes.
+1. Change your favourite animal to something else. Commit the changes.  Cat
 
 2. Make your first name lowercase. Commit the changes. clark
 
